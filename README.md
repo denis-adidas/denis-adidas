@@ -1,7 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" width="300" height="200"/>
-  <img src="https://komarev.com/ghpvc/?username=denis-adidas" alt=""/>
 </div>
+<div id="bages" align="center">
+  <img src="https://komarev.com/ghpvc/?username=denis-adidas" alt=""/>
+ </div>
+
 
 <!--
 **denis-adidas/denis-adidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
