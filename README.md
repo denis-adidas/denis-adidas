@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" width="300" height="200"/>
+  <img src="https://media.giphy.com/media/lurBd30wKQjA62BDcl/giphy.gif" width="300" height="200"/>
 </div>
 <div id="bages" align="center">
   <img src="https://komarev.com/ghpvc/?username=denis-adidas" alt=""/>
  </div>
  <h1>
   hey there
-  <img src="https://media.giphy.com/media/lurBd30wKQjA62BDcl/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" width="50px"/>
 </h1>
  
 
