@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/lurBd30wKQjA62BDcl/giphy.gif" width="200" height="400"/>
+  <img src="https://media.giphy.com/media/lurBd30wKQjA62BDcl/giphy.gif" width="200" height="300"/>
 </div>
 <div id="bages" align="center">
   <img src="https://komarev.com/ghpvc/?username=denis-adidas" alt=""/>
