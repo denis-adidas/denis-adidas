@@ -4,7 +4,7 @@
 <div id="bages" align="center">
   <img src="https://komarev.com/ghpvc/?username=denis-adidas" alt=""/>
  </div>
- <h1>
+ <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" width="50px"/>
 </h1>
