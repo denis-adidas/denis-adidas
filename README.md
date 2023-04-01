@@ -8,8 +8,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1> -->
 
-
-## :man_technologist: About Me:
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<!-- ## :man_technologist: About Me:
   I am student from Saint-Petersburg <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="30" >
 
 - :telescope: I’m studying as a IoT-Engineer and contributing to backend.
@@ -31,7 +31,7 @@
 ### 🐒 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=denis-adidas&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denis-adidas&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denis-adidas&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **denis-adidas/denis-adidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
