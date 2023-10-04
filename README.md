@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/XHpT1lgVR86CVzsxww/giphy.gif" width="300" height="300"/>
+  <p>i'm taking off my glasses before i see my first million</p>
 </div>
 <!-- <div id="bages" align="center">
   <img src="https://komarev.com/ghpvc/?username=denis-adidas" alt=""/>
@@ -8,7 +9,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1> -->
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 <!-- ## :man_technologist: About Me:
   I am student from Saint-Petersburg <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="30" >
