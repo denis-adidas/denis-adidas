@@ -8,4 +8,4 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/denisstishin)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/deniss_adidas)
-# [![SadServers](https://img.shields.io/badge/Certificates-000000?style=for-the-badge&logo=linux&logoColor=white)](./certs/)
+[![SadServers](https://img.shields.io/badge/Certificates-000000?style=for-the-badge&logo=linux&logoColor=white)](./certs/)
